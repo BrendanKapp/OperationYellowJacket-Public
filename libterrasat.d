@@ -1,0 +1,1 @@
+/home/bkapp/Desktop/Programming/CTX/DedSec/terrasat/cli-view/target/debug/libterrasat.rlib: /home/bkapp/Desktop/Programming/CTX/DedSec/terrasat/cli-view/src/lib.rs /home/bkapp/Desktop/Programming/CTX/DedSec/terrasat/model/src/lib.rs /home/bkapp/Desktop/Programming/CTX/DedSec/terrasat/model/src/satellite.rs
